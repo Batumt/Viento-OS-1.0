@@ -5,5 +5,5 @@
 #How to boot?
 
 
-boot: bzImage root=/dev/sda
+bzImage root=/dev/sda
 
